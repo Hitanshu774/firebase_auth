@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">activities_and_intents</string>
     <string name="buttoon_main">Send</string>
+    <string name="text_header">Message received</string>
 </resources>
