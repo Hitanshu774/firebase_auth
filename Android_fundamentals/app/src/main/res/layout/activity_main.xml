@@ -48,9 +48,12 @@
 
     <TextView
         android:id="@+id/text_message_reply"
-        android:layout_width="416dp"
+        android:layout_width="352dp"
+        android:layout_height="91dp"
+        android:textColor="#2695C9"
+        android:textSize="24sp"
+        android:textStyle="italic"
         android:visibility="invisible"
-        android:layout_height="77dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
