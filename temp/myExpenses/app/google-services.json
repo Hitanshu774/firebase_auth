@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991468422427",
+    "project_id": "myexpenses-fire",
+    "storage_bucket": "myexpenses-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991468422427:android:dd32dce145f69dde7effbe",
+        "android_client_info": {
+          "package_name": "com.example.myexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991468422427-nqgbj0q2vlqek661ln2ghh54dlp4tfds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8JSU1GBlDN1OXwrpV0BYAvGJYJSiQBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991468422427-nqgbj0q2vlqek661ln2ghh54dlp4tfds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
